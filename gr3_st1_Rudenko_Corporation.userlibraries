@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="json-simple-1.1.1">
+    <archive path="D:/develop/downloads/json-simple-1.1.1.jar" />
+  </library>
+  <library name="ojdbc6">
+    <archive path="D:/develop/downloads/ojdbc6.jar" />
+  </library>
+  <library name="gr3_st1_Rudenko_ErrorsRegistrationJournal">
+    <archive path="D:/develop/java_projects/gr3_st1_Rudenko_ErrorsRegistrationJournal/out/artifacts/gr3_st1_Rudenko_ErrorsRegistrationJournal_jar/gr3_st1_Rudenko_ErrorsRegistrationJournal.jar" />
+  </library>
+</eclipse-userlibraries>
+
